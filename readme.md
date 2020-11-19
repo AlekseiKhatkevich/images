@@ -2,9 +2,9 @@
 
 Запуск:
 
-handle_images.py     сохранение в дефолтную папку
+python handle_images.py     сохранение в дефолтную папку
 
-handle_images.py --path {путь к папке}  сохранение в указанную папку
+python handle_images.py --path {путь к папке}  сохранение в указанную папку
 
 
 Тесты не делал.
